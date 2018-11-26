@@ -1,0 +1,127 @@
+/Library/Java/JavaVirtualMachines/jdk-10.0.2.jdk/Contents/Home/bin/java "-javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=64668:/Applications/IntelliJ IDEA CE.app/Contents/bin" -Dfile.encoding=UTF-8 -classpath /Users/armanpopli/IdeaProjects/Escape'd/out/production/Escape'd Main
+You are in an escape room. You have 30 turns to escape. 
+Each turn requires a two word command consisting of a verb and a noun (eg. "go door" for moving your charactar to the door).
+ Make sure all letters are lowercase and all commands are general.
+
+You are in the Foyer. Cobwebbs hang from the chandeliers that look about to fall from the ceiling. 
+The light is dim and you can barely make out your surroundings. 
+Inside the foyer, you see a bench, a chest, an unlit candle, and a note. There is a door to the north, but it is locked.
+What do you do next?look note
+
+The note says, "May my light show you the way." You do not understand -- the door is still locked.
+You have 29 turns left to play.
+What do you do next?go chest
+
+You approach the chest. It looks right out of a pirate movie.
+You have 28 turns left to play.
+What do you do next?open chest
+
+Inside the chest is dusty; it clearly has been left unopened for years. 
+After sweeping through some of the dust, the contents become visable: a box of matches.
+You have 27 turns left to play.
+What do you do next?get matches
+
+You pick up the matches, unsure if they will still work after all these years.
+You have 26 turns left to play.
+What do you do next?light matches
+
+You light the matches and the flame illuminates. Immediatly the room begins to brighten, but the door remains closed and locked.
+You have 25 turns left to play.
+What do you do next?light candle
+
+You light the candle. Immediatly you hear a bang, then a slow creak. The door to the north unlocks then opens slowely, enticing you to enter.
+You have 24 turns left to play.
+What do you do next?go door
+
+You walk through the door and the room opens up into a much brighter room. As you view the books lining the shelves, it becomes clear that you are in a library.
+ In a specific corner, you see a desk with a pen and scroll lying on it. There is another door to the north.
+You have 23 turns left to play.
+What do you do next?look scroll
+
+The scroll says, "Share your story." The library seems so old; you wonder if it is possible that it could have been written for you?
+You have 22 turns left to play.
+What do you do next?look bshelves
+
+Your move yielded no advancement in escaping the room. Try again.
+You have 21 turns left to play.
+What do you do next?look bookshelf
+
+After searching the bookshelf, you see a book open. It is curious so you take a closer look. 
+The book is titled "The Autobiography of..." with the rest of the title empty. You wonder why.
+What do you do next?get pen
+
+You pick up the pen. It is still sealed -- it has never been used.
+You have 19 turns left to play.
+What do you do next?open pen
+
+Pen is now ready to write with.
+You have 18 turns left to play.
+What do you do next?go scroll
+
+Your move yielded no advancement in escaping the room.
+You have 17 turns left to play.
+What do you do next?get book
+
+You get the curious book. You now have a writing utensil and the book.
+You have 16 turns left to play.
+What do you do next?write book
+
+Your move yielded no advancement in escaping the room.
+You have 15 turns left to play.
+What do you do next?write name
+
+You write your name in the book, making the autobiography about you. The pages become filled with a history you are yet to know.
+You shut your eyes as you know your mind would be unable to handle it.
+The door to the north once again becomes unlocked and slowely creaks open.
+You have 14 turns left to play.
+What do you do next?go door
+
+You walk through the door and the room opens up into a grand high ceilinged room. Couches line the outside of it. Although there is much greenery around you, you feel the same creepiness as before.
+There are three instruments in this room: a trumpet, a drum, and a piano. There is also a piece of sheet music on a stand in the center.
+You have 13 turns left to play.
+What do you do next?get sheet
+
+Your move yielded no advancement in escaping the room. Try again.
+You have 12 turns left to play.
+What do you do next?look sheet
+
+The sheet music is empty, but a phrasie is written on the musical staff: "Timbre, Tone, and Time." 
+These represent the Trumpet, Piano, and Drum respectively. It seems strange.
+You have 11 turns left to play.
+What do you do next?get trumpet
+
+You pick up the trumpet. You really hope the mouthpiece is new.
+You have 10 turns left to play.
+What do you do next?play trumpet
+
+You play the trumpet. Much to your suprise, you are able to play with ease. 
+Melodies flow out perfectly even though you have never before played a trumpet.
+You have 9 turns left to play.
+What do you do next?get piano
+
+Your move yielded no advancement in escaping the room.
+You have 8 turns left to play.
+What do you do next?go piano
+
+Your move yielded no advancement in escaping the room.
+You have 7 turns left to play.
+What do you do next?play piano
+
+You play the piano. This time, too, you are able to play a melody perfectly even though you have never touched a piano in your life.
+You have 6 turns left to play.
+What do you do next?get drum
+
+You get the drum and hold the drumsticks.
+What do you do next?play drum
+
+As soon as you finish playing, the door to the north once again becomes unlocked and slowely creaks open.
+You have 4 turns left to play.
+What do you do next?go door
+
+You walk through the door, and you finally exit the house.
+You have 3 turns left to play.
+You exist the house, falling to your knees with gratitude of your freedom. 
+----------------------------------------------------------------
+CONGRADULATIONS, YOU HAVE WON.
+
+Process finished with exit code 0
