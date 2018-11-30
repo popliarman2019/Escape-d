@@ -23,8 +23,8 @@ public class Main {
             youLose();
         }
         if (progress == 14) {
+            System.out.println("\nYou are in the Foyer. Cobwebbs hang from the chandeliers that look about to fall from the ceiling. \nThe light is dim and you can barely make out your surroundings. \nInside the foyer, you see a bench, a chest, an unlit candle, and a note. There is a door to the north, but it is locked.");
             switch (turn()) {
-                System.out.println("\nYou are in the Foyer. Cobwebbs hang from the chandeliers that look about to fall from the ceiling. \nThe light is dim and you can barely make out your surroundings. \nInside the foyer, you see a bench, a chest, an unlit candle, and a note. There is a door to the north, but it is locked.");
                 case "look note":
                 case "read note":
                     System.out.println("\nThe note says, \"May my light show you the way.\" You do not understand -- the door is still locked.");
